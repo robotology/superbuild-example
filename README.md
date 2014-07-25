@@ -6,19 +6,23 @@ Download and compilation of the subprojects is done automatically by the superbu
 
 Get the repository:
 
-  git clone git@github.com:robotology/superbuild-example.git
+    git clone git@github.com:robotology/superbuild-example.git
 
 Run cmake and make the project:
 
-  mkdir build
-  cd build
-  cmake ../
-  make
+    mkdir build
+    cd build
+    cmake ../
+    make
 
 This project supports the superbuild documentation available here:
 
-  http://robotology.github.io/ycm/gh-pages/master/index.html
   
+    http://robotology.github.io/ycm/gh-pages/master/index.html
+
+
+
+
 
 
 
