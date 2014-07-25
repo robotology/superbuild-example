@@ -15,10 +15,12 @@ Run cmake and make the project:
     cmake ../
     make
 
-This project supports the superbuild documentation available here:
+This project supports the superbuild documentation, check out the YCM documentation:
 
-  
-    http://robotology.github.io/ycm/gh-pages/master/index.html
+ http://robotology.github.io/ycm/gh-pages/master/index.html
+
+
+
 
 
 
